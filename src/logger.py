@@ -1,3 +1,7 @@
+'''The logger file is used to set up logging mechanisms for the project. Instead of using print statements
+ for debugging or monitoring, logs provide a structured way to track the flow of the code, errors, 
+ and important information.'''
+
 import logging
 import os
 from datetime import datetime

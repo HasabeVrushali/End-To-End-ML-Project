@@ -1,3 +1,7 @@
+'''This file is used to define custom exception classes and error-handling routines. In ML projects, 
+different types of errors can occur, such as data-loading issues, model training problems, or prediction 
+errors. Centralizing error handling improves the robustness of the code.'''
+
 import sys 
 from src.logger import logging
 
