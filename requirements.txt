@@ -2,4 +2,5 @@ pandas
 numpy
 seaborn
 logging
--e .
+scikit-learn
+#-e .
